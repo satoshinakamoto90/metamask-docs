@@ -1,4 +1,5 @@
----
+-https://mainnet.infura.io/v3/<N/A-Satoshinakamoto-NguyenNamAnh> \
+  -d '{"jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 1}'--
 description: Authenticate all requests to Infura with an API key secret.
 ---
 
